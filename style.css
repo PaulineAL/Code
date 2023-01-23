@@ -600,26 +600,26 @@ li {
 /* Contact */
 
 .bg.contact > img {
-  margin-left: 10px;
-  margin-right: 10px;
-  width: 800px;
-  height: 500px;
+  margin-left: 1vh;
+  margin-right: 5vh;
+  width: 80vh;
+  height: 50vh;
 }
 
 .bg.contact {
   display: flex;
   flex-direction: row-reverse;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
 .bg.contact > form {
-  width: 60vh;
+  width: 50vh;
 }
 
 fieldset {
   font-family: "Oxanium";
-  margin-left: 10px;
+  margin-left: 2vh;
 }
 
 label,
@@ -628,7 +628,7 @@ input {
 }
 
 div > input {
-  width: 300px;
+  width: 30vh;
 }
 
 input:focus,
