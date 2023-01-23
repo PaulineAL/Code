@@ -765,7 +765,6 @@ legend {
   }
 }
 
-/*Pour page responsive, rectangle qui dit qu'il faut tourner son téléphone*/
 @keyframes shake {
   5%,
   15%,
@@ -808,7 +807,6 @@ legend {
   }
 }
 
-/* https://www.w3docs.com/snippets/css/how-to-create-glitch-effect-with-css.html*/
 .mono:hover {
   animation: shake 2.5s, glitch 2.5s;
 }
